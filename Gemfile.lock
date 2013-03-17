@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    json (1.7.7)
+    redis (3.0.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  json
+  redis
